@@ -1,6 +1,6 @@
 # Simon Says 2 🎮
 
-A modern, mobile-friendly version of the classic **Simon Says** memory game. This web-based game challenges players to remember and replicate an increasingly complex sequence of colors and sounds.
+A modern, mobile-friendly version of the classic **Simon Says** memory game. This web-based game challenges players to remember and replicate an increasingly complex sequence of colors and sounds..
 
 ## 🚀 Live Demo
 
